@@ -8,5 +8,8 @@ public class SomeSharedStuff
         Console.WriteLine("and more.");
         Console.WriteLine("and more.");
         Console.WriteLine("and more.");
+        Console.WriteLine("and more.");
+        Console.WriteLine("and more.");
+        Console.WriteLine("and more.");
     }
 }
