@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\4210026\\RiderProjects\\SubmoduleTest\\TestSubmodule\\TestSub\\Submodule\\Submodule\\Submodule.csproj": {}
+    "C:\\Users\\4210026\\RiderProjects\\SubmoduleTest\\Test\\TestSub\\Submodule\\Submodule\\Submodule.csproj": {}
   },
   "projects": {
-    "C:\\Users\\4210026\\RiderProjects\\SubmoduleTest\\TestSubmodule\\TestSub\\Submodule\\Submodule\\Submodule.csproj": {
+    "C:\\Users\\4210026\\RiderProjects\\SubmoduleTest\\Test\\TestSub\\Submodule\\Submodule\\Submodule.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\4210026\\RiderProjects\\SubmoduleTest\\TestSubmodule\\TestSub\\Submodule\\Submodule\\Submodule.csproj",
+        "projectUniqueName": "C:\\Users\\4210026\\RiderProjects\\SubmoduleTest\\Test\\TestSub\\Submodule\\Submodule\\Submodule.csproj",
         "projectName": "Submodule",
-        "projectPath": "C:\\Users\\4210026\\RiderProjects\\SubmoduleTest\\TestSubmodule\\TestSub\\Submodule\\Submodule\\Submodule.csproj",
+        "projectPath": "C:\\Users\\4210026\\RiderProjects\\SubmoduleTest\\Test\\TestSub\\Submodule\\Submodule\\Submodule.csproj",
         "packagesPath": "C:\\Users\\4210026\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\4210026\\RiderProjects\\SubmoduleTest\\TestSubmodule\\TestSub\\Submodule\\Submodule\\obj\\",
+        "outputPath": "C:\\Users\\4210026\\RiderProjects\\SubmoduleTest\\Test\\TestSub\\Submodule\\Submodule\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\4210026\\AppData\\Roaming\\NuGet\\NuGet.Config",

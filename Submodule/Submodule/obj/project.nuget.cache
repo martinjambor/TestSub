@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/fnOhpvpGIH/PUUPcXlLyip+MZPiMtRhWX1xgWwqpS4zdjeRPgFhELjCZpzPlGxYKYdXmhh14CD3SWklK4mSIw==",
+  "dgSpecHash": "HfYW6++niZ0QwJWB9dCZuUIYBaxyyH8nRms7P5+wmUPQW3wwT7xmL9M/BLJNyWs6xb3+Rbj6O+FHmGDTL+qDvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\4210026\\RiderProjects\\SubmoduleTest\\TestSubmodule\\TestSub\\Submodule\\Submodule\\Submodule.csproj",
+  "projectFilePath": "C:\\Users\\4210026\\RiderProjects\\SubmoduleTest\\Test\\TestSub\\Submodule\\Submodule\\Submodule.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
