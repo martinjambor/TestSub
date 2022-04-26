@@ -1,0 +1,15 @@
+C:\Users\4210026\RiderProjects\SubmoduleTest\TestSubmodule\TestSub\Submodule\Submodule\bin\Debug\net6.0\Submodule.exe
+C:\Users\4210026\RiderProjects\SubmoduleTest\TestSubmodule\TestSub\Submodule\Submodule\bin\Debug\net6.0\Submodule.deps.json
+C:\Users\4210026\RiderProjects\SubmoduleTest\TestSubmodule\TestSub\Submodule\Submodule\bin\Debug\net6.0\Submodule.runtimeconfig.json
+C:\Users\4210026\RiderProjects\SubmoduleTest\TestSubmodule\TestSub\Submodule\Submodule\bin\Debug\net6.0\Submodule.dll
+C:\Users\4210026\RiderProjects\SubmoduleTest\TestSubmodule\TestSub\Submodule\Submodule\bin\Debug\net6.0\ref\Submodule.dll
+C:\Users\4210026\RiderProjects\SubmoduleTest\TestSubmodule\TestSub\Submodule\Submodule\bin\Debug\net6.0\Submodule.pdb
+C:\Users\4210026\RiderProjects\SubmoduleTest\TestSubmodule\TestSub\Submodule\Submodule\obj\Debug\net6.0\Submodule.csproj.AssemblyReference.cache
+C:\Users\4210026\RiderProjects\SubmoduleTest\TestSubmodule\TestSub\Submodule\Submodule\obj\Debug\net6.0\Submodule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4210026\RiderProjects\SubmoduleTest\TestSubmodule\TestSub\Submodule\Submodule\obj\Debug\net6.0\Submodule.AssemblyInfoInputs.cache
+C:\Users\4210026\RiderProjects\SubmoduleTest\TestSubmodule\TestSub\Submodule\Submodule\obj\Debug\net6.0\Submodule.AssemblyInfo.cs
+C:\Users\4210026\RiderProjects\SubmoduleTest\TestSubmodule\TestSub\Submodule\Submodule\obj\Debug\net6.0\Submodule.csproj.CoreCompileInputs.cache
+C:\Users\4210026\RiderProjects\SubmoduleTest\TestSubmodule\TestSub\Submodule\Submodule\obj\Debug\net6.0\Submodule.dll
+C:\Users\4210026\RiderProjects\SubmoduleTest\TestSubmodule\TestSub\Submodule\Submodule\obj\Debug\net6.0\ref\Submodule.dll
+C:\Users\4210026\RiderProjects\SubmoduleTest\TestSubmodule\TestSub\Submodule\Submodule\obj\Debug\net6.0\Submodule.pdb
+C:\Users\4210026\RiderProjects\SubmoduleTest\TestSubmodule\TestSub\Submodule\Submodule\obj\Debug\net6.0\Submodule.genruntimeconfig.cache
