@@ -6,5 +6,6 @@ public class SomeSharedStuff
     {
         Console.WriteLine("Submodule stuff");
         Console.WriteLine("and more.");
+        Console.WriteLine("and more.");
     }
 }
